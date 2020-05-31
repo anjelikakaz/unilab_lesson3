@@ -89,16 +89,19 @@ a:active{
 	height: 30px;
 	margin-left: 98px; 
 	margin-top: 50px;
+	margin-bottom: 40px;
 }
 .icon2{
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 50px;
+	margin-bottom: 40px;
 }
 .icon3{
 	width: 25px;
 	height: 30px;
 	margin-top: 50px;
+	margin-bottom: 40px;
 }
 .days{
 	padding-top: 10px;
